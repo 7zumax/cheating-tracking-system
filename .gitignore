@@ -1,0 +1,12 @@
+# runtime output
+alerts/
+alerts.db
+
+# downloaded pretrained weights (Ultralytics re-downloads them)
+*.pt
+
+# python / env
+__pycache__/
+*.pyc
+.venv/
+venv/
